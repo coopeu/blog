@@ -1,29 +1,12 @@
-<<<<<<< HEAD
-# README
+README
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+Thi is an initial basic BLOG RoR app
 
-Things you may want to cover:
-
-* Ruby version
-
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+* Ruby version: 2.4.1
+* Rails version: 5.1.2 
+* BBDD: mysql
+* Website: http://185.117.22.166:8888
+* Architecture: LAM phusion-passenger
 =======
 # blog
 blog app 'course'  ruby-rails-5-bdd-rspec-capybara
->>>>>>> 2bb89dc40bd401d3cd07a4603394df2cfa647078
