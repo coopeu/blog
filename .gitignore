@@ -7,17 +7,27 @@
 # Ignore bundler config.
 /.bundle
 
+<<<<<<< HEAD
 # Ignore the default SQLite database.
 /db/*.sqlite3
 /db/*.sqlite3-journal
 
+=======
+>>>>>>> 4a517df03d543c0c40b1177e19b2b939eda7c364
 # Ignore all logfiles and tempfiles.
 /log/*
 /tmp/*
 !/log/.keep
 !/tmp/.keep
 
+<<<<<<< HEAD
 # Ignore Byebug command history file.
 .byebug_history
 
 /config/database.yml
+=======
+/node_modules
+/yarn-error.log
+
+.byebug_history
+>>>>>>> 4a517df03d543c0c40b1177e19b2b939eda7c364
